@@ -1,0 +1,8 @@
+---
+name: zookeeper-service-adapter
+
+templates: {}
+
+packages: [odb-service-adapter]
+
+properties: {}

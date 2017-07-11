@@ -1,0 +1,3 @@
+[submodule "src/github.com/joyoudata-tech/zookeeper-service-adapter"]
+	path = src/github.com/joyoudata-tech/zookeeper-service-adapter
+	url = https://github.com/joyoudata-tech/zookeeper-service-adapter

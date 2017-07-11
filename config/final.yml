@@ -1,0 +1,6 @@
+---
+final_name: zookeeper-service-adapter
+blobstore:
+  provider: local
+  options:
+    blobstore_path: /tmp/zkbosh
