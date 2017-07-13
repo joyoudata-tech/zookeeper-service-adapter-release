@@ -1,0 +1,22 @@
+---
+packages:
+- name: odb-service-adapter
+  version: ebb0d2f4e992ed60875a6c3394eac24363ca3f0b
+  fingerprint: ebb0d2f4e992ed60875a6c3394eac24363ca3f0b
+  sha1: 3143feac7089d7f4ed2fb9c5a705f315e08ffd25
+  dependencies:
+  - go
+- name: go
+  version: 3ec9f179b44451fd75675024bba0c87c358a4fc8
+  fingerprint: 3ec9f179b44451fd75675024bba0c87c358a4fc8
+  sha1: 58d50f174df4347b2fbec0ca1453145631ce344b
+  dependencies: []
+jobs:
+- name: zookeeper-service-adapter
+  version: d88f3f2ffd6ad84cdf64c62c763a66eb4736ef71
+  fingerprint: d88f3f2ffd6ad84cdf64c62c763a66eb4736ef71
+  sha1: 29bd8d237dee9c52e721642214b4ccfcc454fce3
+commit_hash: 4b0a6be5
+uncommitted_changes: true
+name: zookeeper-service-adapter
+version: '2'
